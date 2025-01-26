@@ -1,0 +1,267 @@
+[
+    {
+        "text": "What is the capital of France?",
+        "text_pair": "Which city serves as France's capital?",
+        "label": 1.0
+    },
+    {
+        "text": "The movie was excellent and entertaining",
+        "text_pair": "I really enjoyed watching this film",
+        "label": 0.9
+    },
+    {
+        "text": "Mix the ingredients in a large bowl", 
+        "text_pair": "Combine all components in a mixing bowl",
+        "label": 0.8
+    },
+    {
+        "text": "The cat is sleeping on the windowsill",
+        "text_pair": "A dog is running in the yard",
+        "label": 0.1
+    },
+    {
+        "text": "Python is a programming language",
+        "text_pair": "Bananas are yellow fruits",
+        "label": 0.0
+    },
+    {
+        "text": "He drove his car through the mountains",
+        "text_pair": "She took a vehicle across the rocky terrain",
+        "label": 0.7
+    },
+    {
+        "text": "NASA plans to send astronauts to Mars",
+        "text_pair": "The space agency will launch a manned mission to the Red Planet",
+        "label": 0.85
+    },
+    {
+        "text": "Her new novel reached the bestseller list",
+        "text_pair": "The book she wrote is now a top seller",
+        "label": 0.9
+    },
+    {
+        "text": "Please deliver the package by tomorrow afternoon",
+        "text_pair": "Could you have the parcel here by 3 PM tomorrow?",
+        "label": 0.8
+    },
+    {
+        "text": "I'm looking forward to the concert next week",
+        "text_pair": "Can't wait to see the live performance soon",
+        "label": 0.9
+    },
+    {
+        "text": "History can teach us valuable lessons",
+        "text_pair": "We often learn from events that happened in the past",
+        "label": 0.8
+    },
+    {
+        "text": "Her painting displayed vibrant colors and abstract shapes",
+        "text_pair": "The artwork was dull and lacked imagination",
+        "label": 0.2
+    },
+    {
+        "text": "Is it raining outside right now?",
+        "text_pair": "Do you know if precipitation is occurring outdoors?",
+        "label": 0.7
+    },
+    {
+        "text": "I have a doctor's appointment at 10 AM",
+        "text_pair": "I will see my physician later this evening",
+        "label": 0.4
+    },
+    {
+        "text": "Sushi is a traditional Japanese dish",
+        "text_pair": "Airplanes fly high in the sky",
+        "label": 0.0
+    },
+    {
+        "text": "He solved the puzzle in under five minutes",
+        "text_pair": "Completing the riddle took him almost no time",
+        "label": 0.8
+    },
+    {
+        "text": "Turn left at the traffic light",
+        "text_pair": "When you reach the corner, make a right",
+        "label": 0.2
+    },
+    {
+        "text": "Van Gogh was a post-impressionist painter",
+        "text_pair": "He was known for creating art in the impressionist style",
+        "label": 0.5
+    },
+    {
+        "text": "Regular exercise helps maintain a healthy body",
+        "text_pair": "Working out consistently is beneficial for your fitness",
+        "label": 0.9
+    },
+    {
+        "text": "They plan to expand the business overseas",
+        "text_pair": "The company hopes to open new branches in other countries",
+        "label": 0.85
+    },
+    {
+        "text": "She spends an hour meditating every morning",
+        "text_pair": "Daily mindfulness practice is part of her routine",
+        "label": 0.75
+    },
+    {
+        "text": "Winter temperatures can fall below freezing",
+        "text_pair": "Summers in the desert are extremely hot",
+        "label": 0.1
+    },
+    {
+        "text": "I'll send you an email with the details",
+        "text_pair": "Expect a message with all the specifics",
+        "label": 0.8
+    },
+    {
+        "text": "My favorite fruit is watermelon",
+        "text_pair": "I absolutely love the taste of fresh pineapple",
+        "label": 0.2
+    },
+    {
+        "text": "Living in a big city offers many job opportunities",
+        "text_pair": "There are a lot of employment options in urban areas",
+        "label": 0.85
+    },
+    {
+        "text": "Always wear a seatbelt when driving",
+        "text_pair": "Putting on a safety belt is crucial for car travel",
+        "label": 0.9
+    },
+    {
+        "text": "He wrote a script for a new play",
+        "text_pair": "She composed a song for her upcoming album",
+        "label": 0.2
+    },
+    {
+        "text": "The lake water is crystal clear this time of year",
+        "text_pair": "At this season, the pond looks really murky",
+        "label": 0.1
+    },
+    {
+        "text": "Please schedule a meeting with the marketing team",
+        "text_pair": "Kindly arrange a conference call with our promotion group",
+        "label": 0.7
+    },
+    {
+        "text": "He repaired the broken fence using new wood",
+        "text_pair": "He ended up painting the old wall instead",
+        "label": 0.3
+    },
+    {
+        "text": "Graduating from college was her biggest achievement",
+        "text_pair": "She felt that earning a degree was a major milestone",
+        "label": 0.9
+    },
+    {
+        "text": "Please bring an umbrella in case it rains",
+        "text_pair": "Better keep a raincoat with you if the weather changes",
+        "label": 0.8
+    },
+    {
+        "text": "We watched the sunset by the beach",
+        "text_pair": "They observed the sunrise from the mountaintop",
+        "label": 0.4
+    },
+    {
+        "text": "Her performance was absolutely mesmerizing",
+        "text_pair": "She was completely off key the entire show",
+        "label": 0.0
+    },
+    {
+        "text": "I bought a new laptop yesterday",
+        "text_pair": "I purchased a computer not long ago",
+        "label": 0.7
+    },
+    {
+        "text": "The weather forecast predicts heavy snowfall",
+        "text_pair": "There's going to be a blizzard soon, according to the news",
+        "label": 0.8
+    },
+    {
+        "text": "He forgot to turn off the kitchen light",
+        "text_pair": "He left the porch lamp on by accident",
+        "label": 0.6
+    },
+    {
+        "text": "She enjoys reading mystery novels in her free time",
+        "text_pair": "Detective stories are her preferred genre to read casually",
+        "label": 0.75
+    },
+    {
+        "text": "Giraffes have very long necks",
+        "text_pair": "Snakes can shed their skin",
+        "label": 0.0
+    },
+    {
+        "text": "The library closes early on Sundays",
+        "text_pair": "On weekends, the museum shuts its doors sooner than usual",
+        "label": 0.5
+    },
+    {
+        "text": "Always eat a balanced diet for better health",
+        "text_pair": "Consuming a variety of nutrients is key to staying fit",
+        "label": 0.85
+    },
+    {
+        "text": "He spilled coffee on his laptop and it stopped working",
+        "text_pair": "A cup of tea ruined her computer last week",
+        "label": 0.6
+    },
+    {
+        "text": "The final exam is scheduled for next Friday",
+        "text_pair": "Our last test will be held this coming Thursday",
+        "label": 0.4
+    },
+    {
+        "text": "Keep all your receipts for reimbursement",
+        "text_pair": "Make sure you retain the proof of purchase for a refund",
+        "label": 0.8
+    },
+    {
+        "text": "They stayed at a luxurious resort during their vacation",
+        "text_pair": "They went camping in the mountains for their holiday",
+        "label": 0.2
+    },
+    {
+        "text": "A balanced approach can resolve most conflicts",
+        "text_pair": "Using a fair strategy often helps in settling disputes",
+        "label": 0.9
+    },
+    {
+        "text": "He's allergic to peanuts and tree nuts",
+        "text_pair": "He loves peanut butter sandwiches",
+        "label": 0.0
+    },
+    {
+        "text": "They traveled by train to get to the conference",
+        "text_pair": "They used the railway to attend the seminar",
+        "label": 0.8
+    },
+    {
+        "text": "The rainforest is home to thousands of species",
+        "text_pair": "Polar bears live in the Arctic region",
+        "label": 0.0
+    },
+    {
+        "text": "You should check the oil level in the car regularly",
+        "text_pair": "Don't forget to inspect tire pressure frequently",
+        "label": 0.4
+    },
+    {
+        "text": "Shakespeare's plays are still performed worldwide",
+        "text_pair": "Many theaters showcase his work centuries later",
+        "label": 0.8
+    },
+    {
+        "text": "Dogs can be trained to perform many tricks",
+        "text_pair": "There are numerous ways to teach dogs new behaviors",
+        "label": 0.7
+    },
+    {
+        "text": "I finished reading that self-help book",
+        "text_pair": "I just completed the novel you recommended",
+        "label": 0.4
+    }
+]
